@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jimin%20Park&Frontend%Dev&fontSize=70)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jimin%20Park&Frontend%Dev&fontSize=70) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jimin-Park0901&theme=graywhite)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jimin-Park0901&layout=compact)
 
