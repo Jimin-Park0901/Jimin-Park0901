@@ -6,8 +6,7 @@ Frontend Dev (•‿•)
 
 <a><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
-
-Wanna be Data Scientist ⸜(˶˃ ᵕ ˂˶ )⸝♡
+⸜(˶˃ ᵕ ˂˶ )⸝♡
 <!-- <a href="링크"><img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/></a> -->
 <!-- <a href="링크"><img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/></a> -->
 <!-- <a href="링크"><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></a> -->
