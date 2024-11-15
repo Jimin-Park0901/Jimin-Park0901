@@ -2,18 +2,19 @@
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jimin-Park0901&theme=graywhite) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jimin-Park0901&layout=compact) -->
 
-Frontend Dev (•‿•)
+Frontend Dev 
 
 <a><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/><a>
 <a><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 
 
-Data Scientist ⸜(˶˃ ᵕ ˂˶ )⸝♡
+Data Scientist (•‿•)
 
 <a><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/><a>
 <a><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/><a>
 
+⸜(˶˃ ᵕ ˂˶ )⸝♡
 
 
 
